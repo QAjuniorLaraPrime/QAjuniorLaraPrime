@@ -10,7 +10,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*nEwEHNSUrakbfCkaC_Vgzw.jpeg">
+    <img align="center" alt="" height="30" width="40" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png">
+  <!-- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*nEwEHNSUrakbfCkaC_Vgzw.jpeg"> -->
 </div>
   
   ##
