@@ -1,8 +1,12 @@
 
+<h1 align="center">Bem vindo!</h1>
+<p align="justify">Pode me chamar de Junior :) tenho 25 anos sou Desenvolvedor de robos de testes de softwares Web/API, atualmentra trabalho na Prime control, alocado no cliente O Boticário.</p>
+<p align="justify">Analista de sistemas | Quality assurance Pleno | Analista de testes</p>
+<h2>Tecnologias</h2>
 <div align="center">
-  <a href="https://github.com/QAjuniorLaraPrime">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QAjuniorLaraPrime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAjuniorLaraPrime&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Junielton-lara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junielton-lara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junielton-lara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +26,6 @@
   <a href = "mailto:junieltonlara01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junielton-lara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/QAjuniorLaraPrime/QAjuniorLaraPrime/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Junielton-lara/Junielton-lara/blob/output/github-contribution-grid-snake.svg)
  
 </div>
