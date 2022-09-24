@@ -1,6 +1,6 @@
 
 <h1 align="center">Bem vindo!</h1>
-<p align="justify">Me chamo Junielton mas pode me chamar de Junior :) tenho 25 anos sou Desenvolvedor de robos de testes de softwares Web/API, atualmentra trabalho na Prime control, alocado no cliente O Boticário.</p>
+<p align="justify">Me chamo Junielton mas pode me chamar de Junior :) tenho 25 anos sou Desenvolvedor de robos de testes de softwares Web/API, atualmente trabalho na Prime control, alocado no cliente O Boticário.</p>
 <p align="justify">Analista de sistemas | Quality assurance Pleno | Analista de testes</p>
 <h2>Tecnologias</h2>
 <div align="center">
